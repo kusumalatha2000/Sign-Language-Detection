@@ -1,5 +1,7 @@
 # Sign-Language-Detection
 
+      This Sign-Language-Detection project, converts the American Sign Language gestures(alphabets) into text and also to speech using gTTS text to speech converter and Deep Learning(CNN) model.  
+
 ### Prerequisites
 
 * python 3.6 or later
